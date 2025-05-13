@@ -7,4 +7,5 @@ This API provides information about frequently asked questions (FAQs) for variou
 - 📚 Knowledge Base API: https://replit.com/@goyalt364/barbeque-api#main.py
 - 🤖 Chatbot Demo: https://replit.com/@goyalt364/barbeque-api#app.py
 - Post-Call Analysis Excel Sheet: https://docs.google.com/spreadsheets/d/1halbSIK1Ce8x32UhaR2fEgIYChrJkM_2_Gdprehl4TM/edit?usp=sharing
+- Technical Documentation for Barbeque Nation Chatbot System: https://docs.google.com/document/d/1LyoDQXZ8JTQyiTjGm675tEUwXTvlOrSz4ZmsCJgsLhc/edit?usp=sharing
 - 📞 Agent Number: [+91-XXXXXXXXXX] (replace with the actual number)
